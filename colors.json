@@ -1,0 +1,18 @@
+﻿{
+  "fields": ["Name", "Hex", "Red", "Green", "Blue"],
+  "data": [
+  ["Air Force Blue","#5D8AA8",93,138,168  ],
+  ["Atrce Blue","#F0F8FF",240,248,255  ],
+  ["Atrzarin Crimson","#E32636",227,38,54  ],
+  ["Almond","#EFDECD",239,222,205  ],
+  ["Amaranth","#E52B50",229,43,80  ],
+  ["Black","#000000",0,0,0  ],
+  ["Gray","#808080",128,128,128  ],
+  ["White","#FFFFFF",255,255,255  ],
+  ["Yellow","#FFFF00",255,255,0  ],
+  ["Yellow Orange","#FFAE42",255,174,66  ],
+  ["Yellow Green","#9ACD32",154,205,50  ],
+  ["Zaffre","#0014A8",0,20,168  ],
+  ["Zinnwaldite Brown","#2C1608",44,22,8  ]
+]
+}
